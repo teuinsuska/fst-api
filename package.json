@@ -1,0 +1,22 @@
+{
+  "name": "fst-api",
+  "version": "1.0.0",
+  "description": "API Web Scraping seminar-fst.uin-suska.ac.id",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teuinsuska/fst-api.git"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "KAnggara75",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/teuinsuska/fst-api/issues"
+  },
+  "homepage": "https://github.com/teuinsuska/fst-api#readme"
+}
